@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android 02 Ex01</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="page_title">Home Page</string>
+    <string name="favorite">Favorite</string>
+    <string name="content_description_favorite">content description favorite</string>
+    <string name="search">Search</string>
+    <string name="content_description_search">content description search</string>
+    <string name="more">more</string>
+    <string name="content_description_more">content description more</string>
+
+
+    <string name="post_card_transition_name">post_card_%1$s</string>
+    <string name="post_card_detail_transition_name">post_card_detail</string>
+</resources>
